@@ -11513,12 +11513,13 @@ html {
   background-color: #198754;
   
 }
-* {box-sizing: border-box; border-radius: 5px;}
+* {box-sizing: border-box;}
 .skills {
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
   color: white;
+  border-radius: 5px;
 }
 .html {width: 85%; background-color: #13653f;}
 .css {width: 80%; background-color: #13653f;}
