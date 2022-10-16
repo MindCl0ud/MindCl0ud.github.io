@@ -11511,7 +11511,7 @@ html {
 .containerbar {
   width: 100%;
   background-color: #198754;
-  
+  border-radius: 5px;
 }
 * {box-sizing: border-box;}
 .skills {
